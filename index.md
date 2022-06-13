@@ -25,15 +25,17 @@ I'm proficient in web development, enterprise application architecture, parsers,
 ### **Cobrowse.io** | Software Developer | June 2021 - December 2021
 
 - Refactored the development docker containers to separate the frontend
-  > Docker, Nginx, Node.js, and React
 - Developed a JWT generator and user interface
-  > React and WebCrypto
 - Developed the cross-domain shared session feature
-  > JavaScript, Local Storage, and WebSockets
 - Rebased the enterprise docker images on Alpine Linux
-  > Kubernetes, Docker, and Alpine Linux
 - Created their next generation Salesforce app
-  > Apex, JavaScript, VisualForce, and custom Lightning components
+
+> **Skills required**:
+>
+> - Languages and runtimes: TypeScript, JavaScript, Node.js, React
+> - Web standards: Local Storage, WebSockets, WebCrypto
+> - Salesforce stack: Apex, VisualForce, custom Lightning components
+> - Containers: Kubernetes, Docker, Alpine Linux
 
 ### **Net Health Shops LLC** | Senior Software Developer | May 2019 - June 2021
 
