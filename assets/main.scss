@@ -14,3 +14,10 @@
     width: 500px !important;
   }
 }
+
+.content {
+  @media print {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+}
