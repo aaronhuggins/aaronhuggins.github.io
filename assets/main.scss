@@ -8,3 +8,9 @@
   page-break-before: always;
   break-before: always;
 }
+
+.details {
+  @media print {
+    width: 500px !important;
+  }
+}
