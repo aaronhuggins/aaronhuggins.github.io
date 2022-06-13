@@ -24,7 +24,7 @@ I'm proficient in web development, enterprise application architecture, parsers,
 
 ### **Cobrowse.io** | Software Developer | June 2021 - December 2021
 
-- Refactored the development docker containers to separate the frontend
+- Refactored the development docker containers to isolate the frontend
 - Developed a JWT generator and user interface
 - Developed the cross-domain shared session feature
 - Rebased the enterprise docker images on Alpine Linux

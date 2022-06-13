@@ -65,7 +65,7 @@ content:
         # quote: >
         #  sample
         description: | # this will include new lines to allow paragraphs
-          - Refactored the development docker containers to separate the frontend
+          - Refactored the development docker containers to isolate the frontend
           - Developed a JWT generator and user interface
           - Developed the cross-domain shared session feature
           - Rebased the enterprise docker images on Alpine Linux
