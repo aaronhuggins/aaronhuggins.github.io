@@ -5,8 +5,6 @@
 @import 'modern-resume-theme';
 
 .list-container > #education {
-  @media print {
-    page-break-before: always;
-    break-before: always;
-  }
+  page-break-before: always;
+  break-before: always;
 }
