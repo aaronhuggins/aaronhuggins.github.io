@@ -30,7 +30,7 @@ I'm proficient in web development, enterprise application architecture, parsers,
 - Rebased the enterprise docker images on Alpine Linux
 - Created their next generation Salesforce app
 
-> **Skills required**:
+> **Relevant skills**:
 >
 > - Languages and runtimes: TypeScript, JavaScript, Node.js, React
 > - Web standards: Local Storage, WebSockets, WebCrypto
@@ -39,7 +39,21 @@ I'm proficient in web development, enterprise application architecture, parsers,
 
 ### **Net Health Shops LLC** | Senior Software Developer | May 2019 - June 2021
 
-- TBW
+- Migrated server apps and Azure logic apps to serverless function in TypeScript
+- Designed and implemented serverless Azure Functions for order life-cycle management
+- Designed and developed app for processing EDI transactions over FTP and AS2
+- Created web applications for company intranet in React and markdown
+- Developed Shopify themes for company e-commerce websites
+- Acted as Scrum Master and Lead
+- Grew team from 2 members to 6
+
+> **Relevant skills**:
+>
+> - Languages: TypeScript, JavaScript, React, Liquid, Antlr, Apex
+> - Runtimes: Node.js, Deno, Azure Functions, .NET
+> - Microsoft Azure: Functions, Logic Apps, CosmosDB, Storage, Containers, VMs
+> - Web standards: CSS, HTML, MutationObserver, MessageChannel, WebSockets
+> - Containers: Kubernetes, Docker, Ubuntu, Alpine
 
 ### **Nuclear Family LLC** | Owner and Principal Developer | July 2018 - May 2019
 

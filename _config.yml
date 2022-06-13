@@ -71,12 +71,33 @@ content:
           - Rebased the enterprise docker images on Alpine Linux
           - Created their next generation Salesforce app
 
-          > **Skills required**:
+          > **Relevant skills**:
           >
           > - Languages and runtimes: TypeScript, JavaScript, Node.js, React
           > - Web standards: Local Storage, WebSockets, WebCrypto
           > - Salesforce stack: Apex, VisualForce, custom Lightning components
           > - Containers: Kubernetes, Docker, Alpine Linux
+      - layout: left
+        title: Net Health Shops LLC
+        link: sunnydazedecor.com
+        sub_title: Senior Software Developer
+        caption: May 2019 - June 2021
+        description: | # this will include new lines to allow paragraphs
+          - Migrated server apps and Azure logic apps to serverless function in TypeScript
+          - Designed and implemented serverless Azure Functions for order life-cycle management
+          - Designed and developed app for processing EDI transactions over FTP and AS2
+          - Created web applications for company intranet in React and markdown
+          - Developed Shopify themes for company e-commerce websites
+          - Acted as Scrum Master and Lead
+          - Grew team from 2 members to 6
+
+          > **Relevant skills**:
+          >
+          > - Languages: TypeScript, JavaScript, React, Liquid, Antlr, Apex
+          > - Runtimes: Node.js, Deno, Azure Functions, .NET
+          > - Microsoft Azure: Functions, Logic Apps, CosmosDB, Storage, Containers, VMs
+          > - Web standards: CSS, HTML, MutationObserver, MessageChannel, WebSockets
+          > - Containers: Kubernetes, Docker, Ubuntu, Alpine
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
