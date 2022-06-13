@@ -7,5 +7,6 @@
 .list-container > #education {
   @media print {
     page-break-before: always;
+    break-before: always;
   }
 }
