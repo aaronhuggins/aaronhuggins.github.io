@@ -16,5 +16,13 @@
 }
 
 #experience ~ .row.layout {
-  border-bottom: dashed 2px #CCCCCC;
+  @media print {
+    border-bottom: dashed 2px #CCCCCC;
+  }
+}
+
+#experience ~ .row.layout:last-child {
+  @media print {
+    border-bottom: none;
+  }
 }
