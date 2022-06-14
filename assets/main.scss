@@ -9,8 +9,8 @@
   break-before: always;
 }
 .row.layout {
-  page-break-inside: always;
-  break-inside: always;
+  page-break-inside: avoid;
+  break-inside: avoid;
 }
 
 .details {
