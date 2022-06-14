@@ -15,7 +15,6 @@
   }
 }
 
-.content {
-  page-break-inside: avoid;
-  break-inside: avoid;
+#experience ~ .row.layout {
+  border-bottom: dashed 2px #CCCCCC;
 }
