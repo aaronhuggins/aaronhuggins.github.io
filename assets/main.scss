@@ -26,3 +26,9 @@
     border-bottom: none;
   }
 }
+
+@page {
+  @bottom-right {
+    content: "Page " counter(page) " of " counter(pages);
+  }
+}
