@@ -26,9 +26,8 @@ I'm most skilled in: `TypeScript` and `funny GIFs`
 
 > **Relevant skills**:
 >
-> - Languages and runtimes: TypeScript, JavaScript, Node.js, React
+> - Languages and runtimes: TypeScript, JavaScript, Node.js, React, Apex, VisualForce, custom Lightning components, MongoDB
 > - Web standards: Local Storage, WebSockets, WebCrypto
-> - Salesforce stack: Apex, VisualForce, custom Lightning components
 > - Containers: Kubernetes, Docker, Alpine Linux
 
 ### **Net Health Shops LLC** | Senior Software Developer | May 2019 - June 2021
@@ -43,35 +42,82 @@ I'm most skilled in: `TypeScript` and `funny GIFs`
 
 > **Relevant skills**:
 >
-> - Languages: TypeScript, JavaScript, React, Liquid, Antlr, Apex
-> - Runtimes: Node.js, Deno, Azure Functions, .NET
+> - Languages: TypeScript, JavaScript, MySQL, React, Liquid, Antlr, Apex
+> - Runtimes: Node.js, Deno, WASM, Azure Functions, .NET
 > - Microsoft Azure: Functions, Logic Apps, CosmosDB, Storage, Containers, VMs
 > - Web standards: CSS, HTML, MutationObserver, MessageChannel, WebSockets
 > - Containers: Kubernetes, Docker, Ubuntu, Alpine
+> - APIs: OpenAPI, Rest, GraphQL, OData, EDI, C ABI
+> - Tools: Jira, Confluence, SonarQube, Azure DevOps
 
 ### **Nuclear Family LLC** | Owner and Principal Developer | July 2018 - May 2019
 
-- TBW
+- Developed web application for a social-engagement rewards platform targeting hobby shops
+
+> **Relevant skills**:
+>
+> - Languages and runtimes: TypeScript, React, Node.js, PostgreSQL
+> - Amazon Web Services: Lambda, DocumentDB, S3
+> - Machine learning: TensorFlow.js
+> - APIs - AWS, Square POS
+> - Tools: Jenkins, Artifactory OSS, Trello
 
 ### **Menard, Inc** | Senior Software Developer | August 2016 - July 2018
 
-- TBW
+- Developed Jenkins plugin for View management and sync for users
+- Developed Windows 10 deployment platform (CLI/server) over multicast
+- Created Desktop user interface for performing multicast Windows deployment
+- Designed novel technique for upgrading Windows 7 32-bit to Windows 10 64-bit
+
+> **Relevant skills**:
+>
+> - Languages and runtimes: JavaScript, Angular, Java, Groovy, C#
+> - Environments: Windows Pre-boot, Windows 7/10 64/32-bit, Redhat Linux
+> - Tools: Jenkins, Tomcat, Jira, Confluence, Symantec Altiris
 
 ### **Menard, Inc** | Software Developer | November 2014 - August 2016
 
-- TBW
+- Scripted automation for Windows and Linux
+- Developed software deployment and caching over multicast, integrated with Altiris
+- Developed CLI tool for intelligent driver selection and deployment
+
+> **Relevant skills**:
+>
+> - Languages and runtimes: C#, Bash, PowerShell, Visual Basic .NET
+> - Environments: Windows Preboot, Windows 7/10 64/32-bit, Redhat Linux
+> - Tools: Jira, Confluence, Symantec Altiris
 
 ### **Menard, Inc** | Computer Technician | October 2013 - October 2014
 
-- TBW
+- Created mass-hardware testing platform integrated with Phoronix Test Suite
+
+> **Relevant skills**:
+>
+> - Languages: PHP, JavaScript, Python, Visual Basic .NET, MySQL
+> - Environments: Windows Pre-boot, Ubuntu Server, PXELinux
+> - Tools: Remedy Help Desk, Jira
 
 ### **IBM** | Mainframe Developer | April 2012 - August 2013
 
-- TBW
+- Administered mainframe storage
+- Developed mainframe storage journalling with rollback and email notification
+
+> **Relevant skills**:
+>
+> - Languages: REXX, JCL, C
+> - Platforms: z/OS, Redhat Linux Desktop
+> - Tools: ServiceNow
 
 ### **Freelance** | Software Developer | May 2009 - April 2012
 
-- TBW
+- Designed and deployed e-commerce database backend
+- Developed and maintained Wordpress sites
+- Created custom Windows desktop applications
+
+> **Relevant skills**:
+>
+> - Languages: PHP, C, C++, C#, JavaScript, Visual Basic .NET, MySQL, SQLite
+> - Environments: Ubuntu Linux, CentOS Linux, Windows XP/7
 
 ## A Little More About Me
 
