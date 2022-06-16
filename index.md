@@ -68,6 +68,7 @@ I'm most skilled in: `TypeScript` and `funny GIFs`
 - Developed Windows 10 deployment platform (CLI/server) over multicast
 - Created Desktop user interface for performing multicast Windows deployment
 - Designed novel technique for upgrading Windows 7 32-bit to Windows 10 64-bit
+- Grew team from 3 to 5 members
 
 > **Relevant skills**:
 >
@@ -119,10 +120,24 @@ I'm most skilled in: `TypeScript` and `funny GIFs`
 > - Languages: PHP, C, C++, C#, JavaScript, Visual Basic .NET, MySQL, SQLite
 > - Environments: Ubuntu Linux, CentOS Linux, Windows XP/7
 
+## Education
+
+### Emmaus Bible College | 2006 - 2009
+
+**Computer Information Systems (incomplete)**
+
+> *Established in 1941, Emmaus offers double majors in both professional and biblical studies. The institution is fully acreddited and well-respected for its emphasis on diversity, professional studies, and spiritual discipline.*
+
+While at Emmaus, I chose to pursue a degree in Computer Information Studies as it was complementary to my interests, personally and professionally. Coursework included Linux system administration, database administration, enterprise application design, and object oriented programming in VB and C#.
+
+In 2009, I dropped out for financial reasons, leaving my degree incomplete.
+
 ## A Little More About Me
 
 I cut my teeth on Perl, PHP, Lua, and vanilla web development as a teenager. I became interested in software development by playing with video game emulators and Linux, eventually learning C in order to get microphone and network operational. From there, I learned VB and C# .Net in college, but dropped out for financial reasons. For a while I freelanced, stocked shelves, worked a year for IBM, and then was hired by Menards. There, I put my .Net skills to use, learned Java, and fell in love with JavaScript.
 
 Node.js changed my entire perspective! Since 2016, I made it my mission to work full-time in the language I've grown to love. I adopted TypeScript in 2017, was contractually free to work on open-source in 2019, and I've been cultivating a deeper understanding the whole time.
+
+On two different teams, I've helped my managers to grow our capabilities and had an active role in interviewing and selecting team members. In my role as a senior, I've been able to provide insight and vision to management, actively pursue making their own vision into reality, and to lead collaboration and inclusivity among team members.
 
 I'm proficient in web development, enterprise application architecture, parsers, and compilers. You'll find me writing open-source primarily for the Deno runtime, an alternative to Node.js where TypeScript and web standards are first-class citizens; and learning Rust in my spare time.
