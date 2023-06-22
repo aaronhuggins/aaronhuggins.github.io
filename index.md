@@ -10,13 +10,28 @@ layout: default
 
 # Aaron Huggins
 
-Hi, my name is Aaron. I'm a software developer professionally since 2009 and script kiddie since 1999! I have worked in a variety of companies, often helping to build teams and systems from scratch. At every opportunity, I've worked to learn teamwork, leadership skills, and inclusivity.
+Hi, my name is Aaron. I'm a software developer professionally since 2009 and script kiddie since 1999! I have worked in a variety of companies, often helping to build teams and systems from scratch. At every opportunity, I've worked to learn and execute well on teamwork, leadership skills, and inclusivity.
 
 I'm most skilled in: `TypeScript` and `funny GIFs`
 
 ## Experience
 
-### **Cobrowse.io** | Software Developer | June 2021 - December 2021
+### **Carewell Family Inc.** | Team Lead of Platform Engineering | July 2022 - June 2023
+
+- Led a team of 3 developers; responsible for team and individual performance
+- Created KPI measurements for reporting outcomes to leadership
+- Reduced average monthly technology cost by 40%
+- Designed and implemented a notification microservice
+- Architected a microservice for integrating shipping and order management
+- Designed and implemented a subscription microservice
+- Developed a solution for integrating product reviews with other segments of the business
+
+> **Relevant skills:**
+> 
+> - Languages and runtimes: TypeScript, JavaScript, Node.js, React, AWS Lambda
+> - Containers: Kubernetes, Docker, Alpine Linux
+
+### **Cobrowse.io** | Senior Software Engineer | June 2021 - December 2021
 
 - Refactored the development docker containers to isolate the frontend
 - Developed a JWT generator and user interface
@@ -30,7 +45,7 @@ I'm most skilled in: `TypeScript` and `funny GIFs`
 > - Web standards: Local Storage, WebSockets, WebCrypto
 > - Containers: Kubernetes, Docker, Alpine Linux
 
-### **Net Health Shops LLC** | Senior Software Developer | May 2019 - June 2021
+### **Net Health Shops LLC** | Lead Software Engineer | May 2019 - June 2021
 
 - Migrated server apps and Azure logic apps to serverless function in TypeScript
 - Designed and implemented serverless Azure Functions for order life-cycle management
@@ -50,7 +65,7 @@ I'm most skilled in: `TypeScript` and `funny GIFs`
 > - APIs: OpenAPI, Rest, GraphQL, OData, EDI, C ABI
 > - Tools: Jira, Confluence, SonarQube, Azure DevOps
 
-### **Nuclear Family LLC** | Owner and Principal Developer | July 2018 - May 2019
+### **Nuclear Family LLC** | Principal Engineer and Owner | July 2018 - May 2019
 
 - Developed web application for a social-engagement rewards platform targeting hobby shops
 
@@ -62,7 +77,7 @@ I'm most skilled in: `TypeScript` and `funny GIFs`
 > - APIs - AWS, Square POS
 > - Tools: Jenkins, Artifactory OSS, Trello
 
-### **Menard, Inc** | Senior Software Developer | August 2016 - July 2018
+### **Menard, Inc** | Senior Software Engineer | August 2016 - July 2018
 
 - Developed Jenkins plugin for View management and sync for users
 - Developed Windows 10 deployment platform (CLI/server) over multicast
@@ -76,7 +91,7 @@ I'm most skilled in: `TypeScript` and `funny GIFs`
 > - Environments: Windows Pre-boot, Windows 7/10 64/32-bit, Redhat Linux
 > - Tools: Jenkins, Tomcat, Jira, Confluence, Symantec Altiris
 
-### **Menard, Inc** | Software Developer | November 2014 - August 2016
+### **Menard, Inc** | Software Engineer | November 2014 - August 2016
 
 - Scripted automation for Windows and Linux
 - Developed software deployment and caching over multicast, integrated with Altiris
@@ -88,7 +103,7 @@ I'm most skilled in: `TypeScript` and `funny GIFs`
 > - Environments: Windows Preboot, Windows 7/10 64/32-bit, Redhat Linux
 > - Tools: Jira, Confluence, Symantec Altiris
 
-### **Menard, Inc** | Computer Technician | October 2013 - October 2014
+### **Menard, Inc** | Software Engineer | October 2013 - October 2014
 
 - Created mass-hardware testing platform integrated with Phoronix Test Suite
 
