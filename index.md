@@ -5,7 +5,7 @@
 
 Hi, my name is Aaron. I'm a software engineer professionally since 2009, and as a hobby since 1999!
 
-At every opportunity, I've worked to learn and execute well on teamwork, leadership skills, and inclusivity. I'm a leader and doer with a deep knowledge of enterprise applications, JavaScript, TypeScript, and agile practices. I've managed people and led teams to successful outcomes for our business in difficult circumstances and hard deadlines. I write and design small to large-scale applications and libraries, and I love to create readable code.
+I am a leader and doer with a deep knowledge of enterprise applications, JavaScript, TypeScript, and agile practices. At every opportunity, I've worked to learn and execute well on teamwork, leadership skills, and inclusivity. I have managed people and led teams to successful outcomes for the business in difficult circumstances and hard deadlines. I write and design small to large-scale applications and libraries, and I love to create readable code.
 
 ## Experience
 
@@ -100,10 +100,6 @@ At every opportunity, I've worked to learn and execute well on teamwork, leaders
 
 ## Education
 
-### Emmaus Bible College | 2006 - 2009
-
-**Computer Information Systems (incomplete)**
-
-> *Established in 1941, Emmaus offers double majors in both professional and biblical studies. The institution is fully acreddited and well-respected for its emphasis on diversity, professional studies, and spiritual discipline.*
+### Emmaus Bible College | 2006 - 2009 | Computer Information Systems (incomplete)
 
 While at Emmaus, I chose to pursue a degree in Computer Information Studies as it was complementary to my interests, personally and professionally. Coursework included Linux system administration, database administration, enterprise application design, and object oriented programming in VB.NET and C#.
