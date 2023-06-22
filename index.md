@@ -45,17 +45,14 @@ At every opportunity, I've worked to learn and execute well on teamwork, leaders
 - Designed and developed app for processing EDI transactions over FTP and AS2
 - Created web applications for company intranet in React and markdown
 - Developed Shopify themes for company e-commerce websites
-- Acted as Scrum Master and Lead
 - Grew team from 2 members to 6
 
 > **Relevant skills**:
 >
 > - Languages: TypeScript, JavaScript, MySQL, React, Liquid, Antlr, Apex
-> - Runtimes: Node.js, Deno, WASM, Azure Functions, .NET
-> - Microsoft Azure: Functions, Logic Apps, CosmosDB, Storage, Containers, VMs
+> - Runtimes: Node.js, Deno, WASM, Microsoft Azure, .NET
 > - Web standards: CSS, HTML, MutationObserver, MessageChannel, WebSockets
 > - Containers: Kubernetes, Docker, Ubuntu, Alpine
-> - APIs: OpenAPI, Rest, GraphQL, OData, EDI, C ABI
 > - Tools: Jira, Confluence, SonarQube, Azure DevOps
 
 ### **Nuclear Family LLC** | Principal Engineer and Owner | July 2018 - May 2019
@@ -68,7 +65,6 @@ At every opportunity, I've worked to learn and execute well on teamwork, leaders
 > - Languages and runtimes: TypeScript, React, Node.js, PostgreSQL
 > - Amazon Web Services: Lambda, DocumentDB, S3
 > - Machine learning: TensorFlow.js
-> - APIs - AWS, Square POS
 > - Tools: Jenkins, Artifactory OSS, Trello
 
 ### **Menard, Inc** | Senior Software Engineer | August 2016 - July 2018
@@ -85,49 +81,22 @@ At every opportunity, I've worked to learn and execute well on teamwork, leaders
 > - Environments: Windows Pre-boot, Windows 7/10 64/32-bit, Redhat Linux
 > - Tools: Jenkins, Tomcat, Jira, Confluence, Symantec Altiris
 
-### **Menard, Inc** | Software Engineer | November 2014 - August 2016
+### **Menard, Inc** | Software Engineer | October 2013 - August 2016
 
-- Scripted automation for Windows and Linux
+- Created automation for Windows desktop and server, and Linux server
 - Developed software deployment and caching over multicast, integrated with Altiris
 - Developed CLI tool for intelligent driver selection and deployment
-
-> **Relevant skills**:
->
-> - Languages and runtimes: C#, Bash, PowerShell, Visual Basic .NET
-> - Environments: Windows Preboot, Windows 7/10 64/32-bit, Redhat Linux
-> - Tools: Jira, Confluence, Symantec Altiris
-
-### **Menard, Inc** | Software Engineer | October 2013 - October 2014
-
 - Created mass-hardware testing platform integrated with Phoronix Test Suite
 
 > **Relevant skills**:
 >
-> - Languages: PHP, JavaScript, Python, Visual Basic .NET, MySQL
-> - Environments: Windows Pre-boot, Ubuntu Server, PXELinux
-> - Tools: Remedy Help Desk, Jira
+> - Languages and runtimes: C#, Bash, PowerShell, VB.NET, PHP, JavaScript, Python
+> - Environments: Windows preboot/desktop/server, Redhat Linux, Ubuntu Server, PXELinux
+> - Tools: Jira, Confluence, Symantec Altiris
 
 ### **IBM** | Mainframe Developer | April 2012 - August 2013
 
-- Administered mainframe storage
-- Developed mainframe storage journalling with rollback and email notification
-
-> **Relevant skills**:
->
-> - Languages: REXX, JCL, C
-> - Platforms: z/OS, Redhat Linux Desktop
-> - Tools: ServiceNow
-
 ### **Freelance** | Software Developer | May 2009 - April 2012
-
-- Designed and deployed e-commerce database backend
-- Developed and maintained Wordpress sites
-- Created custom Windows desktop applications
-
-> **Relevant skills**:
->
-> - Languages: PHP, C, C++, C#, JavaScript, Visual Basic .NET, MySQL, SQLite
-> - Environments: Ubuntu Linux, CentOS Linux, Windows XP/7
 
 ## Education
 
