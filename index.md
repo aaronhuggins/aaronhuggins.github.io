@@ -1,7 +1,7 @@
 # Aaron Huggins
 
-| ✉️ Email | aaron.huggins@gmail.com | 🧑‍💻 Github | [@aaronhuggins](https://github.com/aaronhuggins) | 📃 LinkedIn | [@aaronhugginsdev](https://linkedin.com/in/aaronhugginsdev)
-|-------|-------------------------|-|-|-|-|
+| ✉️ Email: aaron.huggins@gmail.com | 🧑‍💻 Github: [@aaronhuggins](https://github.com/aaronhuggins) | 📃 LinkedIn: [@aaronhugginsdev](https://linkedin.com/in/aaronhugginsdev) |
+|-----------------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------|
 
 Hi, my name is Aaron. I'm a software engineer professionally since 2009, and as a hobby since 1999!
 
