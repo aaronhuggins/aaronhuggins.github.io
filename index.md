@@ -1,18 +1,11 @@
-<!---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: default
---->
-
 # Aaron Huggins
 
-Hi, my name is Aaron. I'm a software developer professionally since 2009 and script kiddie since 1999! I have worked in a variety of companies, often helping to build teams and systems from scratch. At every opportunity, I've worked to learn and execute well on teamwork, leadership skills, and inclusivity.
+| ✉️ Email | aaron.huggins@gmail.com | 🧑‍💻 Github | [@aaronhuggins](https://github.com/aaronhuggins) | 📃 LinkedIn | [@aaronhugginsdev](https://linkedin.com/in/aaronhugginsdev)
+|-------|-------------------------|-|-|-|-|
 
-I'm most skilled in: `TypeScript` and `funny GIFs`
+Hi, my name is Aaron. I'm a software engineer professionally since 2009, and as a hobby since 1999!
+
+At every opportunity, I've worked to learn and execute well on teamwork, leadership skills, and inclusivity. I'm a leader and doer with a deep knowledge of enterprise applications, JavaScript, TypeScript, and agile practices. I've managed people and led teams to successful outcomes for our business in difficult circumstances and hard deadlines. I write and design small to large-scale applications and libraries, and I love to create readable code.
 
 ## Experience
 
@@ -68,6 +61,7 @@ I'm most skilled in: `TypeScript` and `funny GIFs`
 ### **Nuclear Family LLC** | Principal Engineer and Owner | July 2018 - May 2019
 
 - Developed web application for a social-engagement rewards platform targeting hobby shops
+- Created a machine learning model for interest-based geospatial relationships
 
 > **Relevant skills**:
 >
@@ -143,16 +137,4 @@ I'm most skilled in: `TypeScript` and `funny GIFs`
 
 > *Established in 1941, Emmaus offers double majors in both professional and biblical studies. The institution is fully acreddited and well-respected for its emphasis on diversity, professional studies, and spiritual discipline.*
 
-While at Emmaus, I chose to pursue a degree in Computer Information Studies as it was complementary to my interests, personally and professionally. Coursework included Linux system administration, database administration, enterprise application design, and object oriented programming in VB and C#.
-
-In 2009, I dropped out for financial reasons, leaving my degree incomplete.
-
-## A Little More About Me
-
-I cut my teeth on Perl, PHP, Lua, and vanilla web development as a teenager. I became interested in software development by playing with video game emulators and Linux, eventually learning C in order to get microphone and network operational. From there, I learned VB and C# .Net in college, but dropped out for financial reasons. For a while I freelanced, stocked shelves, worked a year for IBM, and then was hired by Menards. There, I put my .Net skills to use, learned Java, and fell in love with JavaScript.
-
-Node.js changed my entire perspective! Since 2016, I made it my mission to work full-time in the language I've grown to love. I adopted TypeScript in 2017, was contractually free to work on open-source in 2019, and I've been cultivating a deeper understanding the whole time.
-
-On two different teams, I've helped my managers to grow our capabilities and had an active role in interviewing and selecting team members. In my role as a senior, I've been able to provide insight and vision to management, actively pursue making their own vision into reality, and to lead collaboration and inclusivity among team members.
-
-I'm proficient in web development, enterprise application architecture, parsers, and compilers. You'll find me writing open-source primarily for the Deno runtime, an alternative to Node.js where TypeScript and web standards are first-class citizens; and learning Rust in my spare time.
+While at Emmaus, I chose to pursue a degree in Computer Information Studies as it was complementary to my interests, personally and professionally. Coursework included Linux system administration, database administration, enterprise application design, and object oriented programming in VB.NET and C#.
