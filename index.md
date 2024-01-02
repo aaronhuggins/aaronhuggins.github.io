@@ -9,6 +9,15 @@ I am a leader and doer with a deep knowledge of enterprise applications, JavaScr
 
 ## Experience
 
+### **Entropy Multimedia** | Senior Software Engineer | September 2023 - present
+
+- Develop software solutions for company clients
+- Create training material for peers
+
+> **Relevant skills:**
+> 
+> - Languages and runtimes: TypeScript, JavaScript, Node.js, React
+
 ### **Carewell Family Inc.** | Engineering Manager | April 2023 - June 2023
 
 - Led the software engineering unit
