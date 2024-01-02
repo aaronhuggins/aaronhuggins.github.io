@@ -9,11 +9,22 @@ I am a leader and doer with a deep knowledge of enterprise applications, JavaScr
 
 ## Experience
 
-### **Carewell Family Inc.** | Team Lead of Platform Engineering | July 2022 - June 2023
+### **Carewell Family Inc.** | Engineering Manager | April 2023 - June 2023
 
-- Led a team of 3 developers; responsible for team and individual performance
+- Led the software engineering unit
+- Hired 8 engineers across two teams to meet business demand for projects
+- Created new technology interview process to improve candidate selection
 - Created KPI measurements for reporting outcomes to leadership
 - Reduced average monthly technology cost by 40%
+
+> **Relevant skills:**
+>
+> - Team building, process management, interviewing, talent acquisition
+> - Cost analysis, access administration, scrum, agile methodology
+
+### **Carewell Family Inc.** | Team Lead of Platform Engineering | July 2022 - March 2023
+
+- Led a team of 3 developers; responsible for team and individual performance
 - Designed and implemented a notification microservice
 - Architected a microservice for integrating shipping and order management
 - Designed and implemented a subscription microservice
