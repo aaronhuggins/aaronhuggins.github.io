@@ -114,10 +114,6 @@ I am a leader and doer with a deep knowledge of enterprise applications, JavaScr
 > - Environments: Windows preboot/desktop/server, Redhat Linux, Ubuntu Server, PXELinux
 > - Tools: Jira, Confluence, Symantec Altiris
 
-### **IBM** | Mainframe Developer | April 2012 - August 2013
-
-### **Freelance** | Software Developer | May 2009 - April 2012
-
 ## Education
 
 ### Emmaus Bible College | 2006 - 2009 | Computer Information Systems (incomplete)
