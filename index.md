@@ -99,20 +99,20 @@ I am a leader and doer with a deep knowledge of enterprise applications, JavaScr
 >
 > - Languages and runtimes: JavaScript, Angular, Java, Groovy, C#
 > - Environments: Windows Pre-boot, Windows 7/10 64/32-bit, Redhat Linux
-> - Tools: Jenkins, Tomcat, Jira, Confluence, Symantec Altiris
+> - Tools: Jenkins, Tomcat, Jira, Confluence, Symantec Altiris DHCP
 
 ### **Menard, Inc** | Software Engineer | October 2013 - August 2016
 
 - Created automation for Windows desktop and server, and Linux server
 - Developed software deployment and caching over multicast, integrated with Altiris
 - Developed CLI tool for intelligent driver selection and deployment
-- Created mass-hardware testing platform integrated with Phoronix Test Suite
+- Created mass-hardware testing platform integrated with Phoronix Test Suite leveraging
 
 > **Relevant skills**:
 >
 > - Languages and runtimes: C#, Bash, PowerShell, VB.NET, PHP, JavaScript, Python
 > - Environments: Windows preboot/desktop/server, Redhat Linux, Ubuntu Server, PXELinux
-> - Tools: Jira, Confluence, Symantec Altiris
+> - Tools: Jira, Confluence, Symantec Altiris, DHCP, PXE
 
 ## Education
 
