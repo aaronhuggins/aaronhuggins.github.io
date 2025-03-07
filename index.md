@@ -9,10 +9,23 @@ I am a leader and doer with a deep knowledge of enterprise applications, JavaScr
 
 ## Experience
 
-### **Entropy Multimedia** | Senior Software Engineer | September 2023 - present
+### **Banjo Health** | Senior Software Engineer | September 2024 - present
+
+- Develop full-stack for prior authorization processing and automation software
+- Architect and implement solutions for no-code clinical review flows
+- Design and execute user interfaces and experiences with product managemenet
+- Communicate and translate technical and business requirements across teams
+- Mentor and train peers
+
+> **Relevant skills:**
+> 
+> - Languages and runtimes: TypeScript, JavaScript, C#, Liquid, MS SQL, Azure APIM, Node.js, Kendo, React
+
+### **Entropy Multimedia** | Senior Software Engineer | September 2023 - July 2024
 
 - Develop software solutions for company clients
 - Create training material for peers
+- Designed and implemented accessibility features for a reservation system serving hundreds of thousands of customers
 
 > **Relevant skills:**
 > 
@@ -41,8 +54,7 @@ I am a leader and doer with a deep knowledge of enterprise applications, JavaScr
 
 > **Relevant skills:**
 > 
-> - Languages and runtimes: TypeScript, JavaScript, Node.js, React, AWS Lambda
-> - Containers: Kubernetes, Docker, Alpine Linux
+> - Languages and runtimes: TypeScript, JavaScript, Node.js, React, AWS Lambda, Kubernetes, Docker, Alpine Linux
 
 ### **Cobrowse.io** | Senior Software Engineer | June 2021 - December 2021
 
@@ -70,9 +82,8 @@ I am a leader and doer with a deep knowledge of enterprise applications, JavaScr
 > **Relevant skills**:
 >
 > - Languages: TypeScript, JavaScript, MySQL, React, Liquid, Antlr, Apex
-> - Runtimes: Node.js, Deno, WASM, Microsoft Azure, .NET
+> - Runtimes: Node.js, Deno, WASM, Microsoft Azure, .NET, Kubernetes, Docker, Ubuntu, Alpine
 > - Web standards: CSS, HTML, MutationObserver, MessageChannel, WebSockets
-> - Containers: Kubernetes, Docker, Ubuntu, Alpine
 > - Tools: Jira, Confluence, SonarQube, Azure DevOps
 
 ### **Nuclear Family LLC** | Principal Engineer and Owner | July 2018 - May 2019
@@ -82,9 +93,8 @@ I am a leader and doer with a deep knowledge of enterprise applications, JavaScr
 
 > **Relevant skills**:
 >
-> - Languages and runtimes: TypeScript, React, Node.js, PostgreSQL
+> - Languages and runtimes: TypeScript, React, Node.js, PostgreSQL, TensorFlow.js
 > - Amazon Web Services: Lambda, DocumentDB, S3
-> - Machine learning: TensorFlow.js
 > - Tools: Jenkins, Artifactory OSS, Trello
 
 ### **Menard, Inc** | Senior Software Engineer | August 2016 - July 2018
@@ -97,8 +107,7 @@ I am a leader and doer with a deep knowledge of enterprise applications, JavaScr
 
 > **Relevant skills**:
 >
-> - Languages and runtimes: JavaScript, Angular, Java, Groovy, C#
-> - Environments: Windows Pre-boot, Windows 7/10 64/32-bit, Redhat Linux
+> - Languages and runtimes: JavaScript, Angular, Java, Groovy, C#, Windows Pre-boot, Windows 7/10 64/32-bit, Redhat Linux
 > - Tools: Jenkins, Tomcat, Jira, Confluence, Symantec Altiris DHCP
 
 ### **Menard, Inc** | Software Engineer | October 2013 - August 2016
@@ -110,8 +119,7 @@ I am a leader and doer with a deep knowledge of enterprise applications, JavaScr
 
 > **Relevant skills**:
 >
-> - Languages and runtimes: C#, Bash, PowerShell, VB.NET, PHP, JavaScript, Python
-> - Environments: Windows preboot/desktop/server, Redhat Linux, Ubuntu Server, PXELinux
+> - Languages and runtimes: C#, Bash, PowerShell, VB.NET, PHP, JavaScript, Python, Windows preboot/desktop/server, Redhat Linux, Ubuntu Server, PXELinux
 > - Tools: Jira, Confluence, Symantec Altiris, DHCP, PXE
 
 ## Education
